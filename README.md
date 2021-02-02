@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Motyldrogi! Welcome <img height="25px" src="https://cdn.betterttv.net/emote/5e17a96ab9741121048068e1/3x"></h2>
+<h2>👋🏻 Hi, I'm Motyldrogi! Welcome <img height="25px" src="https://cdn.betterttv.net/emote/5e17a96ab9741121048068e1/3x"></h2>
 
 22 y.o. Full Stack Developer
 

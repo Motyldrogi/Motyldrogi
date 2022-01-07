@@ -2,7 +2,7 @@
 
 #### About me:
 
-- 22 years old 
+- 23 years old 
 - Full Stack Developer
 
 #### Favorite Langs

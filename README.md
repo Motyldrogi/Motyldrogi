@@ -4,3 +4,8 @@
 
 - 23 years old 
 - Full Stack Developer
+
+#### Links:
+
+- [Ko-Fi](https://ko-fi.com/motyldrogi)
+

@@ -1,8 +1,10 @@
-<h2>Welcome <img height="25px" src="https://cdn.betterttv.net/emote/5e17a96ab9741121048068e1/3x"></h2>
+<h2>Welcome</h2>
+
+<img src="https://cdn.7tv.app/emote/648ccae6f411098a128c8f92/4x.gif">
 
 #### About me:
 
-- 24 years old 
+- 25 years old 
 - Full Stack Developer
 
 #### Links:
